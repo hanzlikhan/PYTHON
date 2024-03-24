@@ -24,7 +24,7 @@
 # }
 # print(dic)
 
-# Q=: subject for classroom requred 
+
 
 
 marks = {}
